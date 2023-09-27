@@ -15,16 +15,15 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Мое название работы
-    :Тип научной работы: M1P/НИР/CoIS
-    :Автор: Имя Отчество Фамилия
-    :Научный руководитель: степень, Фамилия Имя Отчество
-    :Научный консультант(при наличии): степень, Фамилия Имя Отчество
+    :Название исследуемой задачи: Распознавание почерка в рукописных документах
+    :Тип научной работы: M1P
+    :Автор: Иван Евгеньевич Кадченко
+    :Научный руководитель: д.т.н., Местецкий Леонид Моисеевич
 
 Abstract
 ========
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
+В данной работе предлагается метод распознавания почерка человека по его уникальному набору шаблонов. Пусть даны изображения рукописного текста и требуется определить, какое количество различных автором представлено на входных изображениях и к какому автору принадлежит каждый отдельный фрагмент текста. Решение данной задачи позволит устанавливать авторства различных документов, в том числе и исторических, а также упростить работу с архивами в целом. Предлагаемое решение опирается на штриховое представление рукописного текста. Гипотеза заключается в том, что каждый человек при написании различных букв использует примерно похожие, свойственнные ему движения руки, а также могут присутствовать какие-то штрихи, выделяющие конкретного автора. 
 
 Research publications
 ===============================
